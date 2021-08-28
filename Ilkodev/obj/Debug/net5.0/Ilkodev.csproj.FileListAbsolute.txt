@@ -1,0 +1,16 @@
+D:\patika\patika.devCSharp\Ilkodev\bin\Debug\net5.0\Ilkodev.exe
+D:\patika\patika.devCSharp\Ilkodev\bin\Debug\net5.0\Ilkodev.deps.json
+D:\patika\patika.devCSharp\Ilkodev\bin\Debug\net5.0\Ilkodev.runtimeconfig.json
+D:\patika\patika.devCSharp\Ilkodev\bin\Debug\net5.0\Ilkodev.runtimeconfig.dev.json
+D:\patika\patika.devCSharp\Ilkodev\bin\Debug\net5.0\Ilkodev.dll
+D:\patika\patika.devCSharp\Ilkodev\bin\Debug\net5.0\ref\Ilkodev.dll
+D:\patika\patika.devCSharp\Ilkodev\bin\Debug\net5.0\Ilkodev.pdb
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\Ilkodev.csproj.AssemblyReference.cache
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\Ilkodev.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\Ilkodev.AssemblyInfoInputs.cache
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\Ilkodev.AssemblyInfo.cs
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\Ilkodev.csproj.CoreCompileInputs.cache
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\Ilkodev.dll
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\ref\Ilkodev.dll
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\Ilkodev.pdb
+D:\patika\patika.devCSharp\Ilkodev\obj\Debug\net5.0\Ilkodev.genruntimeconfig.cache
