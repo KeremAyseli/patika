@@ -1,0 +1,59 @@
+a{
+    color: rgb(73, 73, 73);
+    text-decoration: none;
+    margin: 10px;
+}
+.Dokuznokta{
+    background-image: url("https://web.archive.org/web/20191201000239im_/https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+    
+}
+
+
+.seacrhBarButton{
+    background-color: #ccc(231, 231, 231);
+    border: solid 1px rgb(228, 228, 228);
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px;
+}
+.seacrhBarButton:hover{
+    background-color: rgb(255, 255, 255);
+    border: solid 2px rgb(134, 134, 134);
+    color: rgb(134, 134, 134);
+    box-shadow: 5px 5px 5px grey;
+}
+.searchArea{
+   display: grid;
+    margin-top: 200px;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+}
+.seacrhBar{
+    width: 50%;
+    height: 40px;
+    border: solid 1px #ccc;
+    border-radius: 25px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+.SıgnInButton{
+    background-color: rgb(10, 124, 228);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 7px;
+    border: solid 1px rgb(10, 124, 228);
+    border-radius: 2px;
+
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 30px;
+    padding:30px;
+    background-color:  #f2f2f2;
+}
