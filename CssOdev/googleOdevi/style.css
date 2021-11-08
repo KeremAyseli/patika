@@ -1,0 +1,17 @@
+.divBorder{
+    border: 1px solid #000;
+    padding: 5px;
+    margin: 5px;
+}
+.searchBar{
+    background-color: rgb(145, 145, 145);
+}
+.searchArea{
+    margin-left: 10%;
+    text-align: center;
+}
+.searchBarInput{
+    display: flex;
+    width: 500px;
+    margin-left: 35%;
+}

@@ -1,19 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
     <title>Document</title>
 </head>
+
 <body>
-    <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg" alt="Google Logosu">
-    <div>
+    <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg" alt="Google Logosu" style="margin-left:45%">
+
+    <div class="searchBar">
+        <div class="searchArea">
         <p>Search the web using Google!</p>
-        <input type="text">
+        <input type="text" class="searchBarInput">
         <section>
-        <button>Google Search</button><button>I'm feel lucky</button>
-    </section>
+            <button>Google Search</button><button>I'm feel lucky</button>
+        </section>
+        </div>
+    </div>
+    
+    <div style="display: flex;">
+        <div style="width: 33%;background-color: #7EE5DA;" class="divBorder">
+            <a>Special Search</a><br>
+            <a href="#">Stanford Search</a><br>
+            <a href="#">Linux Search</a>
+        </div>
+        <div style="width: 33%;background-color:#70CCC2"class="divBorder">
+            <a href="#">Help!</a><br><a href="#">About Google</a><br><a href="#">Company Info</a><br><a href="#">Google
+                Logos</a><br>
+        </div>
+        <div style="width: 33%;background-color:#62B3AA"class="divBorder">
+            <a href="#">Get Google</a><br>
+            <input type="text" value="your e-mail"><br>
+            <button>Subscribe</button><a href="#">Archive</a><br>
+        </div>
+
     </div>
 </body>
+
 </html>
