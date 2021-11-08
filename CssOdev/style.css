@@ -5,8 +5,10 @@ h1{
 body{
 background-color: #2a423c;
 }
-text{
+text,p{
     color: #b3e1d9;
+    font-size: 20px;
+    font-family:Helvetica ;
 }
 h2{
     color: #886bba;
@@ -14,5 +16,25 @@ h2{
 ul,li,ol{
     color: #f5efb7;
     list-style-position: inside;
+}
+a{
+    color: #19f5f5;
+    border: white;
+    text-decoration: none;
+    background-color: #1b6385;
+    border-radius: 15px;
+    height:70px
+}
+a:hover{
+    background-color: #76a4b9;
+    color: #19f5f5;
+}
+nav{
+    background-color: #52756c;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    font-size: 82px;
+    font-family:"Mohave", Arial, Helvetica, sans-serif;
 }
 
