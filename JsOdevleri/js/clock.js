@@ -1,4 +1,5 @@
 function showTime(){
     const d=new Date();
-    return await d.getHours();
+    document.getElementById("myClock").innerText=(d.getHours().toString()+":"+d.getMinutes().toString()+":"+d.getSeconds().toString());
+     setTimeout(showTime,1000);
 }
